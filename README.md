@@ -75,10 +75,6 @@
 ```jsx
 # Week 01 - Computer Architecture + OS Runtime
 
-## 담당자
-
-- 이름:
-
 ---
 
 ## [OS-001] 시스템 콜이 무엇인지 설명해 주세요.
